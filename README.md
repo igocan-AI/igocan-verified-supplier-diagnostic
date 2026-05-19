@@ -1,6 +1,6 @@
 # igocan-verified-supplier-diagnostic
 
-> 个人代码品牌：igocan | 作者：igocan-AI | 邮箱：aliigocan@gmail.com
+> 个人代码品牌：igocan | 作者：igocan-AI | 邮箱：igocan@126.com
 
 ## Skill标签
 
@@ -50,4 +50,4 @@ igocan-verified-supplier-diagnostic/
 本项目归属于 **igocan** 个人代码品牌，仅供学习交流使用。
 
 - GitHub: [igocan-AI](https://github.com/igocan-AI)
-- 联系邮箱: aliigocan@gmail.com
+- 联系邮箱: igocan@126.com
