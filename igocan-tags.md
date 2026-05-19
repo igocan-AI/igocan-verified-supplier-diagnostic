@@ -1,6 +1,6 @@
 # igocan-verified-supplier-diagnostic Skill标签清单
 
-> 个人代码品牌：igocan | 作者：igocan-AI | 邮箱：igocan@126.com
+> 作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 ⭐ [igocan-AI](https://github.com/igocan-AI)
 
 ## Skill标签
 
