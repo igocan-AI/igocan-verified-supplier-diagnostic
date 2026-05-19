@@ -10,8 +10,6 @@ tags:
   - igocan-tools
 ---
 
-<!-- igocan Code Brand | Author: igocan-AI | Mail: igocan@126.com | SkillTags: igocan-ai,igocan-automation,igocan-tools -->
-
 # 金品诚企权益深度诊断 (Verified Supplier Diagnostic)
 
 本技能用于帮助阿里国际站"金品诚企"商家，根据金品核心价值（尤其是 AI 时代的"看不见的货架"分配规则），一键诊断店铺当前的各项高价值权益是否被充分利用，并提供落地的优化建议。
