@@ -1,0 +1,44 @@
+# igocan-verified-supplier-diagnostic .gitignore
+# Auto-generated for AI Skill project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Package locks (if not needed)
+package-lock.json
+yarn.lock
