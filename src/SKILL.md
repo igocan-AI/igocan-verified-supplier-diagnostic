@@ -1,5 +1,3 @@
-<!-- igocan Code Brand | Author: igocan-AI | Mail: igocan@126.com | SkillTags: igocan-ai,igocan-automation,igocan-tools -->
-
 ---
 name: igocan-verified-supplier-diagnostic
 description: 对阿里国际站"金品诚企"商家的专属权益进行深度诊断，检查金品认证完整度、知识库、RFQ及AI算力等各项权益的利用率，帮助商家进入"看不见的货架"获取更多高价值流量。
@@ -11,6 +9,8 @@ tags:
   - igocan-automation
   - igocan-tools
 ---
+
+<!-- igocan Code Brand | Author: igocan-AI | Mail: igocan@126.com | SkillTags: igocan-ai,igocan-automation,igocan-tools -->
 
 # 金品诚企权益深度诊断 (Verified Supplier Diagnostic)
 
