@@ -3,6 +3,7 @@ name: igocan-verified-supplier-diagnostic
 description: 对阿里国际站"金品诚企"商家的专属权益进行深度诊断，检查金品认证完整度、知识库、RFQ及AI算力等各项权益的利用率，帮助商家进入"看不见的货架"获取更多高价值流量。
 version: 1.1.0
 author: igocan-AI
+github: https://github.com/igocan-AI/igocan-verified-supplier-diagnostic
 tags:
   - igocan-ai
   - igocan-automation
@@ -100,3 +101,7 @@ tags:
 - 确认诊断报告包含全部5大维度的评分
 - 确认红灯项均附带了可执行的优化Action
 - 确认健康度评分计算逻辑与维度权重一致
+
+---
+
+> 如有使用问题请反馈，好用欢迎给星星，skill 升级的最新版本会同步到 GitHub: [igocan-AI](https://github.com/igocan-AI)
