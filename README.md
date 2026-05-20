@@ -1,6 +1,6 @@
 # igocan-verified-supplier-diagnostic
 
-> 作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 ⭐ [igocan-AI](https://github.com/igocan-AI)
+> 作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 [igocan-AI](https://github.com/igocan-AI)
 
 ## Skill标签
 
@@ -36,15 +36,15 @@
 
 ```
 igocan-verified-supplier-diagnostic/
-├── src/              # 核心Skill源码
-│   └── SKILL.md      # Agent Skill定义文件（安装时选此文件夹）
-├── igocan-tags.md    # 品牌Skill标签清单
-├── .gitignore        # Git忽略文件
-└── README.md         # 项目说明（本文件）
+── src/
+│   └── SKILL.md       # 核心Skill源码（安装时选此文件夹）
+├── igocan-tags.md     # 品牌Skill标签清单
+├── .gitignore         # Git忽略文件
+└── README.md          # 项目说明（本文件）
 ```
 
 ## 版权声明
 
-作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 ⭐
+作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星
 
 GitHub: [igocan-AI](https://github.com/igocan-AI)

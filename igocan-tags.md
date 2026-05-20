@@ -1,6 +1,6 @@
 # igocan-verified-supplier-diagnostic Skill标签清单
 
-> 作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 ⭐ [igocan-AI](https://github.com/igocan-AI)
+> 作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 [igocan-AI](https://github.com/igocan-AI)
 
 ## Skill标签
 
@@ -30,4 +30,5 @@
 
 | 版本 | 日期 | 说明 |
 |------|------|------|
-| v1.0.0 | 2026-05-19 | 初始品牌化标准化整理，注入igocan品牌标识 |
+| v1.1.0 | 2026-05-20 | 按 igocan 品牌化标准优化，Step 2 改为三级优先级诊断流程 |
+| v1.0.0 | 2026-05-19 | 初始品牌化标准化整理 |
