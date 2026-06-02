@@ -2,6 +2,12 @@
 
 > 作者 igocan，更多 skill 欢迎访问我的 GitHub，好用欢迎给星星 [igocan-AI](https://github.com/igocan-AI)
 
+[![Stars](https://img.shields.io/github/stars/igocan-AI/igocan-verified-supplier-diagnostic?style=social)](https://github.com/igocan-AI/igocan-verified-supplier-diagnostic/stargazers)
+[![Forks](https://img.shields.io/github/forks/igocan-AI/igocan-verified-supplier-diagnostic?style=social)](https://github.com/igocan-AI/igocan-verified-supplier-diagnostic/network/members)
+[![Release](https://img.shields.io/github/v/release/igocan-AI/igocan-verified-supplier-diagnostic?label=version)](https://github.com/igocan-AI/igocan-verified-supplier-diagnostic/releases)
+[![Downloads](https://img.shields.io/github/downloads/igocan-AI/igocan-verified-supplier-diagnostic/total?label=downloads)](https://github.com/igocan-AI/igocan-verified-supplier-diagnostic/releases)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=igocan-AI.igocan-verified-supplier-diagnostic)](https://github.com/igocan-AI/igocan-verified-supplier-diagnostic)
+
 ## Skill标签
 
 `igocan-ai` `igocan-automation` `igocan-tools` `igocan-advanced`
