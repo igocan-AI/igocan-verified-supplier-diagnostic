@@ -20,7 +20,7 @@
 
 ## 快速运行
 
-1. 将 `src/SKILL.md` 安装到支持 Skill 加载的 AI Agent 平台（如 QoderWork）
+1. 将 `SKILL.md` 安装到支持 Skill 加载的 AI Agent 平台（如 QoderWork）
 2. 唤起命令：对话中输入 `/igocan-verified-supplier-diagnostic` 或相关触发词
 3. 按引导完成5维度权益诊断
 
@@ -42,8 +42,7 @@
 
 ```
 igocan-verified-supplier-diagnostic/
-── src/
-│   └── SKILL.md       # 核心Skill源码（安装时选此文件夹）
+├── SKILL.md           # 核心Skill源码（安装文件）
 ├── igocan-tags.md     # 品牌Skill标签清单
 ├── .gitignore         # Git忽略文件
 └── README.md          # 项目说明（本文件）
