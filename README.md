@@ -12,6 +12,19 @@
 
 `igocan-ai` `igocan-automation` `igocan-tools` `igocan-advanced`
 
+## 触发提示词
+
+安装后在对话中输入以下任一关键词即可唤起本 Skill：
+
+| 类型 | 提示词示例 |
+|------|----------|
+| 标准命令 | `/igocan-verified-supplier-diagnostic` |
+| 中文关键词 | 「金品诊断」「金品权益诊断」「金品诚企体检」 |
+| 业务场景 | 「店铺权益体检」「看不见的货架诊断」「金品权益利用率分析」 |
+| 自然语言 | 「帮我做一次金品诚企的权益深度诊断」「诊断我店铺的金品权益消耗情况」 |
+
+> 触发后 Skill 会自动执行 5 大维度体检：金品认证完整度、AI 知识库丰富度、RFQ 特权消耗、i 豆与子账号利用率、L0–L4 买家分层资产。
+
 ## 技术栈
 
 - AI Agent Prompt Engineering (Skill Markdown)
